@@ -8,7 +8,7 @@ Nuestra visión se fundamenta en devolver la esencia del juego competitivo media
 
 ---
 
-## 🌟 Pilares Fundamentales
+## 🌟 Reglas Fundamentales
 
 * **Flexibilidad con Respeto:** Permitimos un ambiente libre para competir, estableciendo límites firmes contra la toxicidad, los *feeders*, el arruinamiento de partidas y el acoso a creadores de contenido.
 * **Reglas Razonables y Claras:** Criterios de sanción imparciales e iguales para todos. No hay favoritismos; las normas aplican por igual a cualquier usuario.
