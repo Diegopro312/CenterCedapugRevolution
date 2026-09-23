@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^5.2.1",
+    "express-session": "^1.19.0",
+    "mysql2": "^3.24.4",
+    "passport": "^0.7.0",
+    "passport-steam": "^1.0.18"
+  }
+}
